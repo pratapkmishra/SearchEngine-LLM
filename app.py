@@ -18,7 +18,7 @@ search=DuckDuckGoSearchRun(name="Search")
 
 st.title("🔎 LangChain - Chat with search")
 """
-This is a Google Search Engine Replacement
+This is a Google Search Engine Replacement 😎 
 """
 
 
